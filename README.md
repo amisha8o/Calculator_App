@@ -41,4 +41,8 @@ A simple, responsive, and interactive **Web Calculator** built using **HTML, CSS
 3.Open index.html in your browser and start calculating!
 
 
+ ## 🔗 Live Demo
+
+👉  Click here :https://amisha8o.github.io/Calculator_App/ 
+
 
